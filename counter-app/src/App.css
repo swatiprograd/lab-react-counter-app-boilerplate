@@ -1,0 +1,9 @@
+h1,
+.btn-container,
+.counter-display {
+  text-align: center;
+}
+
+.btn {
+  margin: 5px;
+}
